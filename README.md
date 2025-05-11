@@ -10,6 +10,7 @@ These are the major classes in the application:
 - [Main](https://github.com/Kwameoduro/HospitalManagementSystem/blob/main/src/main/com.hospital/main/HospitalApp.java)
 
 ## The ERD for My HIS
+The Entity Realtional Diagram for My HIS database can be found [here](https://github.com/Kwameoduro/HospitalManagementSystem/blob/main/img.png)
 
 
 ### Requirement Specification
