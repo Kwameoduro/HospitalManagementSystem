@@ -19,6 +19,6 @@ The Entity Realtional Diagram for My HIS database can be found [here](https://gi
 
 
 ### Requirement Specification
-The requirement specification document for the project can be found [here]().
+The requirement specification document for the project can be found [here](https://github.com/Kwameoduro/HospitalManagementSystem/blob/main/Requirement_Specification_MyHIS.pdf).
 
 May the force be with you!
